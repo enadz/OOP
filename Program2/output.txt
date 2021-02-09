@@ -1,0 +1,4 @@
+The highest salary is:
+2200
+The smallest salary is:
+500
